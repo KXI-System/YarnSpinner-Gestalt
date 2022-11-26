@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=5 format=2]
+
+[ext_resource path="res://addons/ys-gestalt/Resources/YarnProjectCompiled.gd" type="Script" id=1]
+[ext_resource path="res://Test Files/test.yarnc" type="Resource" id=2]
+[ext_resource path="res://Test Files/test-Lines.csv" type="Resource" id=3]
+[ext_resource path="res://Test Files/test-Metadata.csv" type="Resource" id=4]
+
+[resource]
+script = ExtResource( 1 )
+yarnFiles = [  ]
+yarnCompiledProgram = ExtResource( 2 )
+yarnStringTable = ExtResource( 3 )
+yarnLineMetadata = ExtResource( 4 )

@@ -1,0 +1,10 @@
+<Project Sdk="Godot.NET.Sdk/3.3.0">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>YSGodot</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="YarnSpinner" Version="2.2.4" />
+    <PackageReference Include="YarnSpinner.Compiler" Version="2.2.4" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+[remap]
+
+importer="yarnspinner.yarnln"
+type="Resource"
+path="res://.import/test-Lines.csv-0a4838bf5f442b9857f4d080e3d0bd33.res"
+
+[deps]
+
+source_file="res://Test Files/test-Lines.csv"
+dest_files=[ "res://.import/test-Lines.csv-0a4838bf5f442b9857f4d080e3d0bd33.res" ]
+
+[params]
+

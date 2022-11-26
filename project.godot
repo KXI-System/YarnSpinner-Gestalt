@@ -1,0 +1,74 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Resource",
+"class": "YarnC",
+"language": "GDScript",
+"path": "res://addons/ys-gestalt/Resources/YarnProgramCompiled.gd"
+}, {
+"base": "Resource",
+"class": "YarnCLn",
+"language": "GDScript",
+"path": "res://addons/ys-gestalt/Resources/YarnProgramLines.gd"
+}, {
+"base": "Resource",
+"class": "YarnCMd",
+"language": "GDScript",
+"path": "res://addons/ys-gestalt/Resources/YarnProgramMetadata.gd"
+}, {
+"base": "Resource",
+"class": "YarnFile",
+"language": "GDScript",
+"path": "res://addons/ys-gestalt/Resources/YarnFile.gd"
+}, {
+"base": "Resource",
+"class": "YarnProject",
+"language": "GDScript",
+"path": "res://addons/ys-gestalt/Resources/YarnProject.gd"
+}, {
+"base": "Resource",
+"class": "YarnProjectCompiled",
+"language": "GDScript",
+"path": "res://addons/ys-gestalt/Resources/YarnProjectCompiled.gd"
+} ]
+_global_script_class_icons={
+"YarnC": "",
+"YarnCLn": "",
+"YarnCMd": "",
+"YarnFile": "",
+"YarnProject": "",
+"YarnProjectCompiled": ""
+}
+
+[application]
+
+config/name="YS Godot"
+config/icon="res://icon.png"
+
+[editor_plugins]
+
+enabled=PoolStringArray( "res://addons/ys-gestalt/plugin.cfg" )
+
+[gui]
+
+common/drop_mouse_on_gui_input_disabled=true
+
+[mono]
+
+project/assembly_name="YS Godot"
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"

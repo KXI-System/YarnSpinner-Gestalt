@@ -1,0 +1,9 @@
+id,text,file,node,lineNumber
+line:test001,This is a test for YarnSpinner,C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,3
+line:test002,Alice: Hopefully everything works,C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,4
+line:test003,Chester: And I'm here!,C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,5
+line:test004,"Alice: Wait a minute Chester, you're not supposed to speak yet its Bob's turn.",C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,6
+line:test005,Chester: Too bad its Chester time!,C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,7
+line:test006,Alice: Chester No! Bob are you just going to sit there and let them take your spotlight?,C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,8
+line:test007,"Bob: Shhh, its Chester time.",C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,9
+line:test008,Chester: See? Chester Time!,C:\Users\Khan\Downloads\ysc-win-2.3.0-980b920\test.yarn,Start,10

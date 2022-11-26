@@ -1,0 +1,13 @@
+[remap]
+
+importer="yarnspinner.yarn"
+type="Resource"
+path="res://.import/test.yarn-3a204dd0ffa81e98f8c2dde42b3c10ff.res"
+
+[deps]
+
+source_file="res://Test Files/test.yarn"
+dest_files=[ "res://.import/test.yarn-3a204dd0ffa81e98f8c2dde42b3c10ff.res" ]
+
+[params]
+

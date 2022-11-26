@@ -1,0 +1,13 @@
+[remap]
+
+importer="yarnspinner.yarnmd"
+type="Resource"
+path="res://.import/test-Metadata.csv-b288f2a456975c948ef0f4b8c275915d.res"
+
+[deps]
+
+source_file="res://Test Files/test-Metadata.csv"
+dest_files=[ "res://.import/test-Metadata.csv-b288f2a456975c948ef0f4b8c275915d.res" ]
+
+[params]
+
